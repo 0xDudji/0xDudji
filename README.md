@@ -1,8 +1,8 @@
 # 🕷️ About Me:
 👋 I'm a Cybersecurity enthusiast<br>⚡ Passionate about Cloud Security, Decentralized Finance, Smart Contracts, and Webflow.<br>⚔️ I also enjoy Pentesting and am currently working on my CPTS certification.<br>🔗 Next on my journey is diving into C and Assembly for reverse engineering!<br>💬 Dudji.com<br>
 
-<img src="[https://your-gif-link-here.gif](https://cdn.prod.website-files.com/62e4450ee4f4d85fadd8d268/66edeb5a2170e685055bd983_3b90320474ef6c53000b4b7210d92d74.gif)" alt="Cybersecurity GIF" width="400"/>
-
+<img src="[[https://your-gif-link-here.gif](https://cdn.prod.website-files.com/62e4450ee4f4d85fadd8d268/66edeb5a2170e685055bd983_3b90320474ef6c53000b4b7210d92d74.gif)](https://cdn.prod.website-files.com/62e4450ee4f4d85fadd8d268/66edeb5a2170e685055bd983_3b90320474ef6c53000b4b7210d92d74.gif)" alt="Cybersecurity GIF" width="400"/>
+![Cybersecurity GIF]([https://your-gif-link-here.gif](https://cdn.prod.website-files.com/62e4450ee4f4d85fadd8d268/66edeb5a2170e685055bd983_3b90320474ef6c53000b4b7210d92d74.gif))
 ## 👥 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dudji) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dudji) 
 
