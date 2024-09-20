@@ -9,5 +9,5 @@
 
 -------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xdudji" alt="0xdudji" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma&theme=dracula/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xdudji" alt="0xdudji" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula
