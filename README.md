@@ -1,5 +1,5 @@
 # 🕷️ About Me:
-👋 I'm a Cybersecurity enthusiast<br>👯 Passionate about Cloud Security, Decentralized Finance, and Smart Contracts.<br>🤝 I also enjoy Pentesting and am currently working on my CPTS certification.<br>🌱 Next on my journey is diving into C and Assembly for reverse engineering!<br>💬 Also a Webflow designer and doing FPV sim.<br>⚡ Dudji.com<br>
+👋 I'm a Cybersecurity enthusiast<br>💡 Passionate about Cloud Security, Decentralized Finance, and Smart Contracts.<br>⚔️ I also enjoy Pentesting and am currently working on my CPTS certification.<br>🔗 Next on my journey is diving into C and Assembly for reverse engineering!<br>💬 Also a Webflow designer and doing FPV sim.<br>⚡ Dudji.com<br>
 
 
 ## 👥 Socials:
