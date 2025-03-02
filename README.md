@@ -1,5 +1,5 @@
 # 🕷️ About Me:
-👋 I'm a Cybersecurity enthusiast<br>⚡ Passionate about Cloud Security, Decentralized Finance and Smart Contracts.<br>⚔️ I also enjoy CTFs and am currently working on my CBBH/CPTS certification.<br>🔗 Next on my journey is diving into C and Assembly for reverse engineering!<br>💬 Dudji.com<br>
+👋 I'm a Cybersecurity enthusiast<br>⚡ Passionate about Cloud Security, Decentralized Finance and Smart Contracts.<br>⚔️ I also enjoy CTFs and am currently working on my CBBH/CPTS certification.<br>💬 Dudji.com<br>
 
 ![3b90320474ef6c53000b4b7210d92d74](https://github.com/user-attachments/assets/d670a951-e23f-424c-b96c-8c1854a7fda3)
 
