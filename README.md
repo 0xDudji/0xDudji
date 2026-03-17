@@ -10,14 +10,7 @@
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FF0040&center=true&vCenter=true&width=650&lines=%5Broot%40dudji%5D%24+cat+%2Fetc%2Fmotto;%3E+Seeking+knowledge+from+the+cradle+to+the+grave)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=%5Broot%40dudji%5D%24+cat+%2Fetc%2Fmotto;%3E+Seeking+knowledge+from+the+cradle+to+the+grave)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=BF00FF&center=true&vCenter=true&width=650&lines=%5Broot%40dudji%5D%24+cat+%2Fetc%2Fmotto;%3E+Seeking+knowledge+from+the+cradle+to+the+grave)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=%5Broot%40dudji%5D%24+cat+%2Fetc%2Fmotto;%3E+Seeking+knowledge+from+the+cradle+to+the+grave)](https://git.io/typing-svg)****
 
 ---
 
