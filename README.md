@@ -13,9 +13,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Seeking+knowledge+from+the+cradle+to+the+grave)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=0CFF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%3E+Seeking+knowledge+from+the+cradle+to+the+grave)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=%24+./seek_knowledge.sh;Seeking+knowledge+from+the+cradle+to+the+grave;%5BLOG%5D+Never+stop+learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=0CFF00&center=true&vCenter=true&width=650&lines=%5Broot%40dudji%5D%24+cat+%2Fetc%2Fmotto;%3E+Seeking+knowledge+from+the+cradle+to+the+grave;%3E+The+quieter+you+become%2C+the+more+you+hear)](https://git.io/typing-svg)
 </div>
 
 ---
