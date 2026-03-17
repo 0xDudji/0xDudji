@@ -13,8 +13,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Breaking+things+to+understand+them;Smart+Contract+Auditor;Cloud+Security+Researcher;CTF+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=Seeking+knowledge+from+the+cradle+to+the+grave)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1500&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=%24+./seek_knowledge.sh;Seeking+knowledge+from+the+cradle+to+the+grave;%5BLOG%5D+Never+stop+learning...)](https://git.io/typing-svg)
 </div>
 
 ---
