@@ -11,6 +11,9 @@
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FF0040&vCenter=true&width=650&lines=%5Broot%40dudji%5D%24+cat+%2Fetc%2Fmotto;%3E+Seeking+knowledge+from+the+cradle+to+the+grave)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=24&duration=2000&pause=800&color=FF0040&vCenter=true&width=700&lines=%E2%96%88%E2%96%88%E2%96%88+ACCESS+GRANTED+%E2%96%88%E2%96%88%E2%96%88;root%40dudji%3A~%23+cat+%2Fetc%2Fmotto;%3E+Seeking+knowledge+from+the+cradle+to+the+grave;%3E+_)](https://git.io/typing-svg)
+
 ---
 
 ### `root@dudji:~#` Resources
