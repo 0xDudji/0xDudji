@@ -1,12 +1,12 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────────────┐
 │                                                                              │
-│     ██████╗ ██╗   ██╗██████╗      ██╗██╗     Cybersecurity Analyst          │
-│     ██╔══██╗██║   ██║██╔══██╗     ██║██║     DeFi Security | CTF Player     │
-│     ██║  ██║██║   ██║██║  ██║     ██║██║     ────────────────────────────   │
-│     ██║  ██║██║   ██║██║  ██║██   ██║██║     STATUS: Pursuing CPTS          │
-│     ██████╔╝╚██████╔╝██████╔╝╚█████╔╝██║     LOCATION: /dev/null            │
-│     ╚═════╝  ╚═════╝ ╚═════╝  ╚════╝ ╚═╝                                    │
+│     ██████╗ ██╗   ██╗██████╗      ██╗██╗     Cybersecurity Analyst           │
+│     ██╔══██╗██║   ██║██╔══██╗     ██║██║     DeFi Security | CTF Player      │
+│     ██║  ██║██║   ██║██║  ██║     ██║██║     ────────────────────────────    │
+│     ██║  ██║██║   ██║██║  ██║██   ██║██║     STATUS: Pursuing CPTS           │
+│     ██████╔╝╚██████╔╝██████╔╝╚█████╔╝██║     LOCATION: /dev/null             │
+│     ╚═════╝  ╚═════╝ ╚═════╝  ╚════╝ ╚═╝                                     │
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -46,15 +46,3 @@
 ![3b90320474ef6c53000b4b7210d92d74](https://github.com/user-attachments/assets/d670a951-e23f-424c-b96c-8c1854a7fda3)
 
 ---
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dudji&theme=dark&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-</div>
-
----
-
-```
-[LOG] Connection established
-[LOG] Session active
-[LOG] Remember: The quieter you become, the more you can hear
-```
