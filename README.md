@@ -10,7 +10,9 @@
 │                                                                              │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FFFFFF&vCenter=true&width=650&lines=%5Broot%40dudji%5D%24+cat+%2Fetc%2Fmotto;%3E+Seeking+knowledge+from+the+cradle+to+the+grave)](https://git.io/typing-svg)
+![Static](https://img.shields.io/badge/root%40dudji-FF0040?style=flat-square&logo=gnu-bash&logoColor=white)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=FFFFFF&vCenter=true&width=550&lines=%24+cat+%2Fetc%2Fmotto;%3E+Seeking+knowledge+from+the+cradle+to+the+grave)](https://git.io/typing-svg)
 
 ---
 
