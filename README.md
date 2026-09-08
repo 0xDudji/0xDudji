@@ -18,9 +18,9 @@
 
 | Portal | Description |
 |--------|-------------|
-| [hackbook.dudji.com](https://hackbook.dudji.com) | Security knowledge base |
-| [academy.dudji.com](https://academy.dudji.com) | Learning resources |
-| [writeups.dudji.com](https://writeups.dudji.com) | CTF writeups & research |
+| [hackbook.dudji.com](https://dudji.com/hackbook) | Security knowledge base |
+| [academy.dudji.com](https://.dudji.com/academy) | Learning resources |
+| [writeups.dudji.com](https://dudji.com/writeups) | CTF writeups & research |
 
 ---
 
